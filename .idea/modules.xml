@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Circle-n-Cylinder/Circle-n-Cylinder.iml" filepath="$PROJECT_DIR$/Circle-n-Cylinder/Circle-n-Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
       <module fileurl="file://$PROJECT_DIR$/class2d-n-class3d/class2d-n-class3d.iml" filepath="$PROJECT_DIR$/class2d-n-class3d/class2d-n-class3d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/point-n-moveablePoint/point-n-moveablePoint.iml" filepath="$PROJECT_DIR$/point-n-moveablePoint/point-n-moveablePoint.iml" />
     </modules>
   </component>
 </project>

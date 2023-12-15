@@ -9,5 +9,7 @@ public class Main {
     point2.setY(10);
     point2.setZ(11);
     System.out.println(point2);
+    float[] a = point2.getXYZ();
+        System.out.println(a[1]);
     }
 }
